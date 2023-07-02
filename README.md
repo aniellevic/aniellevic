@@ -1,5 +1,7 @@
+##  Hello! Welcome to my Github profile.
+
 - 👋 Hi, I’m @aniellevic
-- 👀 I’m interested in software programming
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning some programming languages
 - 💞️ I’m looking to collaborate in in whatever it takes
 - 📫 Directions by my email: anvictoria19@gmail.com
